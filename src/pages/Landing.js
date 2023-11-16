@@ -15,7 +15,7 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-           Finding your dream job just got easier. Jobster is your personal compass on the journey to professional greatness. With our intuitive job tracking platform, you can supercharge your job search and take control of your career like never before.
+           Finding your dream job just got easier. Jobify is your personal compass on the journey to professional greatness. With our intuitive job tracking platform, you can supercharge your job search and take control of your career like never before.
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
